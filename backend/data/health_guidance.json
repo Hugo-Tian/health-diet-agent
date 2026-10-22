@@ -1,0 +1,444 @@
+{
+  "version": "health-guidance-2026-10-21-v2",
+  "verified_on": "2026-10-20",
+  "review_due": "2027-04-20",
+  "publisher": "NIH / NIDDK / NHLBI",
+  "scope": "成人一般饮食教育；中文整理未经临床专业审查，不用于诊断、药物方案或个体治疗处方。",
+  "chunks": [
+    {
+      "id": "ulcer-diet",
+      "topic": "胃溃疡 / 十二指肠溃疡",
+      "aliases": [
+        "胃溃疡",
+        "十二指肠溃疡",
+        "消化性溃疡",
+        "peptic ulcer",
+        "stomach ulcer"
+      ],
+      "title": "消化性溃疡：饮食与营养",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/eating-diet-nutrition",
+      "source_reviewed": "2022-09",
+      "audience": "一般成人消化性溃疡饮食教育",
+      "section": "Can changes to my diet help prevent or treat a peptic ulcer?",
+      "excerpt": "Doctors do not recommend following a special diet or avoiding specific foods or drinks to prevent or treat ulcers.",
+      "content": "没有证据支持把某种特殊饮食作为预防或治疗消化性溃疡的方法；不应统一要求患者为治疗溃疡而禁食特定食物或饮品。",
+      "limits": "不等于所有食物对每个人都无不适；个人耐受和已有医嘱需另行了解。不能套用反流的忌口清单，也不能宣称菜单可以治疗溃疡。",
+      "topic_key": "ulcer",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "胃里有溃疡要忌口吗",
+        "胃溃疡有什么不能吃"
+      ]
+    },
+    {
+      "id": "ulcer-warning",
+      "topic": "溃疡并发症警示",
+      "aliases": [
+        "胃溃疡",
+        "十二指肠溃疡",
+        "消化性溃疡",
+        "吐血",
+        "呕血",
+        "黑便",
+        "柏油便",
+        "持续剧烈腹痛",
+        "peptic ulcer"
+      ],
+      "title": "消化性溃疡：需及时就医的症状",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/symptoms-causes",
+      "source_reviewed": "2022-09",
+      "audience": "出现疑似并发症症状的人",
+      "section": "What are the symptoms of a peptic ulcer?",
+      "excerpt": "red blood in your vomit or vomit that looks like coffee grounds",
+      "content": "黑色或柏油样大便、呕血或咖啡渣样呕吐物、突然且持续的剧烈腹痛、晕厥等可能提示并发症，应立即联系医生或就医。",
+      "limits": "这些信号不能由聊天诊断病因；出现时优先就医，不能以调整菜单代替评估。本条不是完整的急症筛查工具。",
+      "topic_key": "ulcer",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "胃溃疡哪些症状要就医"
+      ]
+    },
+    {
+      "id": "reflux-timing",
+      "topic": "胃食管反流",
+      "aliases": [
+        "胃食管反流",
+        "反流",
+        "反酸",
+        "烧心",
+        "gerd",
+        "acid reflux"
+      ],
+      "title": "胃食管反流：进餐与躺卧时间",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/eating-diet-nutrition",
+      "source_reviewed": "2020-07",
+      "audience": "夜间或躺下时有反流症状的成人",
+      "section": "How can changes in my eating habits improve GERD symptoms?",
+      "excerpt": "eating meals at least 3 hours before you lie down",
+      "content": "对于夜间或躺下时出现胃食管反流症状的人，在躺下或睡觉前至少3小时进餐可能改善症状。",
+      "limits": "针对反流症状，不应泛化为所有疾病的统一进餐规则；不能由烧心单一描述确诊反流病。",
+      "topic_key": "reflux",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "晚上躺下酸水往上涌",
+        "睡觉前吃东西反酸"
+      ]
+    },
+    {
+      "id": "reflux-triggers",
+      "topic": "胃食管反流",
+      "aliases": [
+        "胃食管反流",
+        "反流",
+        "反酸",
+        "烧心",
+        "gerd",
+        "acid reflux"
+      ],
+      "title": "胃食管反流：识别个人诱发食物",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults/eating-diet-nutrition",
+      "source_reviewed": "2020-07",
+      "audience": "有反流症状的成人",
+      "section": "What should I avoid eating if I have GERD symptoms?",
+      "excerpt": "certain foods or drinks trigger symptoms or make symptoms worse",
+      "content": "部分人的反流症状与酸性食物、酒精、巧克力、咖啡因、高脂食物、薄荷或辛辣食物相关。应结合个人记录，与医生讨论减少实际诱发症状的食物。",
+      "limits": "不是每个人都必须禁食整份清单，不得自动把全部项目写入用户禁忌，也不能把该清单用于胃溃疡。",
+      "topic_key": "reflux",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "吃完饭胸口烧得慌",
+        "咖啡让反酸加重"
+      ]
+    },
+    {
+      "id": "constipation-fiber",
+      "topic": "便秘",
+      "aliases": [
+        "便秘",
+        "排便困难",
+        "大便干",
+        "constipation"
+      ],
+      "title": "便秘：逐渐增加膳食纤维",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition",
+      "source_reviewed": "2018-05",
+      "audience": "一般成人便秘饮食教育",
+      "section": "Fiber",
+      "excerpt": "add fiber to your diet a little at a time",
+      "content": "可以从全谷物、豆类、蔬菜、水果和坚果等获得纤维，并逐步增加，让身体适应变化。个人适宜量应与专业人员讨论。",
+      "limits": "不能据此为有特殊医嘱或其他疾病的人自动设定统一纤维目标；必须遵守过敏和个人饮食限制。",
+      "topic_key": "constipation",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "大便又干又硬排不出来",
+        "好几天拉不出来"
+      ]
+    },
+    {
+      "id": "constipation-fluids",
+      "topic": "便秘",
+      "aliases": [
+        "便秘",
+        "排便困难",
+        "大便干",
+        "constipation"
+      ],
+      "title": "便秘：液体摄入需个体化",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition",
+      "source_reviewed": "2018-05",
+      "audience": "一般成人便秘饮食教育",
+      "section": "Plenty of water",
+      "excerpt": "Ask a health care professional how much liquid you should drink",
+      "content": "适当摄入水和其他液体有助于纤维发挥作用。每天需要多少液体，应结合健康状况、体型、活动量和环境向专业人员确认。",
+      "limits": "不统一推荐固定饮水升数；有液体限制医嘱时不能建议自行增加。",
+      "topic_key": "constipation",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "便秘每天喝多少水"
+      ]
+    },
+    {
+      "id": "lactose-tolerance",
+      "topic": "乳糖不耐受",
+      "aliases": [
+        "乳糖不耐受",
+        "乳糖不耐",
+        "喝奶腹泻",
+        "喝牛奶拉肚子",
+        "lactose intolerance"
+      ],
+      "title": "乳糖不耐受：依据个人耐受调整",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition",
+      "source_reviewed": "2018-02",
+      "audience": "一般成人乳糖不耐受饮食教育",
+      "section": "How should I change my diet if I have lactose intolerance?",
+      "excerpt": "People with lactose intolerance can handle different amounts of lactose.",
+      "content": "个人能耐受的乳糖量不同，许多人不必完全排除所有乳制品；可与专业人员讨论少量、随餐尝试，或使用无乳糖、低乳糖产品。",
+      "limits": "不能仅凭喝奶后不适确诊。牛奶蛋白过敏不能当作乳糖不耐受处理；无乳糖乳品也不能据此认定对牛奶过敏者安全。",
+      "topic_key": "lactose",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "每次喝完牛奶肚子咕噜还拉稀",
+        "喝奶后肚子不舒服"
+      ]
+    },
+    {
+      "id": "lactose-nutrients",
+      "topic": "乳糖不耐受",
+      "aliases": [
+        "乳糖不耐受",
+        "乳糖不耐",
+        "喝奶腹泻",
+        "喝牛奶拉肚子",
+        "lactose intolerance"
+      ],
+      "title": "乳糖不耐受：关注营养替代",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance/eating-diet-nutrition",
+      "source_reviewed": "2018-02",
+      "audience": "减少乳品摄入的成人",
+      "section": "Calcium and Vitamin D",
+      "excerpt": "make sure you get enough calcium and vitamin D each day.",
+      "content": "减少乳品时需关注钙和维生素D摄入，可结合食品标签与其他食物来源安排替代，并与医生或营养师讨论是否满足需要。",
+      "limits": "不得由本条推导补剂剂量；现有食物库不含完整维生素D数据，不能宣称已满足全部需求。",
+      "topic_key": "lactose",
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-20",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核",
+      "questions": [
+        "不能喝奶怎么补充钙"
+      ]
+    },
+    {
+      "id": "diarrhea-eating",
+      "topic_key": "diarrhea",
+      "topic": "腹泻",
+      "aliases": [
+        "腹泻",
+        "拉肚子",
+        "拉稀",
+        "diarrhea"
+      ],
+      "title": "腹泻：恢复饮食与避免禁食",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/eating-diet-nutrition",
+      "source_reviewed": "2024-09",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "What should I eat if I have diarrhea?",
+      "excerpt": "when you feel like eating again, you can eat your normal diet",
+      "content": "急性腹泻时食欲可能下降；多数人在恢复食欲后可以恢复通常饮食。专家通常不建议通过禁食或额外的严格限制饮食处理急性腹泻。",
+      "limits": "仅为一般饮食教育，不能评估脱水或病因。持续、严重或伴其他异常症状时应咨询医生；不把慢性腹泻直接视为饮食问题。",
+      "questions": [
+        "拉肚子是不是要饿一天",
+        "腹泻好了能正常吃饭吗"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "diarrhea-journal",
+      "topic_key": "diarrhea",
+      "topic": "腹泻",
+      "aliases": [
+        "腹泻",
+        "拉肚子",
+        "拉稀",
+        "diarrhea"
+      ],
+      "title": "腹泻：记录食物与症状",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea/eating-diet-nutrition",
+      "source_reviewed": "2024-09",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "What should I avoid eating if I have diarrhea?",
+      "excerpt": "Keeping a food journal could help you figure out",
+      "content": "记录吃喝的内容、症状及发生时间，有助于与医生讨论诱发因素。酒精、咖啡因、高脂食物、大量单糖或糖醇，以及含乳糖食品可能加重部分人的急性腹泻。",
+      "limits": "不自动永久禁食整份清单；个体耐受、过敏和医嘱优先，不能据此诊断乳糖不耐受。",
+      "questions": [
+        "拉稀时需要记录吃了什么"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "ibs-fiber",
+      "topic_key": "ibs",
+      "topic": "肠易激综合征",
+      "aliases": [
+        "肠易激",
+        "肠易激综合征",
+        "ibs",
+        "irritable bowel"
+      ],
+      "title": "肠易激综合征：个体差异与纤维",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/eating-diet-nutrition",
+      "source_reviewed": "2017-11",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Eat more fiber",
+      "excerpt": "soluble fiber is more helpful",
+      "content": "不同饮食调整对肠易激综合征患者的帮助不同。可溶性纤维可能比不溶性纤维更有助于缓解相关症状，增加纤维应循序渐进，避免突然大量摄入带来胀气。",
+      "limits": "不能凭腹痛或腹胀诊断肠易激综合征；不要自动设置统一纤维目标，尤其需区分个人症状及已有医嘱。",
+      "questions": [
+        "已经确诊肠易激能吃燕麦吗"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "ibs-fodmap",
+      "topic_key": "ibs",
+      "topic": "肠易激综合征",
+      "aliases": [
+        "肠易激",
+        "肠易激综合征",
+        "ibs",
+        "fodmap",
+        "irritable bowel"
+      ],
+      "title": "肠易激综合征：低FODMAP需指导",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome/eating-diet-nutrition",
+      "source_reviewed": "2017-11",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Low FODMAP diet",
+      "excerpt": "slowly adding foods that contain FODMAPs back into your diet",
+      "content": "医生可能建议短期尝试低FODMAP饮食，并观察症状；改善后可能逐步重新引入相关食物，以了解个人耐受。可与营养师讨论调整。",
+      "limits": "不是长期全面禁食清单。本项目食物库没有完整FODMAP数据，不能生成或认证低FODMAP治疗菜单。",
+      "questions": [
+        "低FODMAP要一直坚持吗"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "gastritis-diet",
+      "topic_key": "gastritis",
+      "topic": "胃炎",
+      "aliases": [
+        "胃炎",
+        "胃黏膜病",
+        "gastritis",
+        "gastropathy"
+      ],
+      "title": "胃炎：饮食与病因的区别",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis-gastropathy/eating-diet-nutrition",
+      "source_reviewed": "2019-08",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Does diet play a role in causing gastritis and gastropathy?",
+      "excerpt": "don’t play an important role in causing most cases",
+      "content": "饮食与营养不是多数胃炎或胃黏膜病的主要病因。少数情况可能与大量饮酒或食物过敏等因素有关，应区分病因和个人食物耐受。",
+      "limits": "不能把胃部不适直接诊断为胃炎，也不能声称菜单能根除幽门螺杆菌或治疗胃炎。",
+      "questions": [
+        "胃炎是不是全因为吃错东西"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "gastritis-nutrition",
+      "topic_key": "gastritis",
+      "topic": "胃炎",
+      "aliases": [
+        "胃炎",
+        "自身免疫性胃炎",
+        "gastritis"
+      ],
+      "title": "胃炎：营养吸收与补充需评估",
+      "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis-gastropathy/eating-diet-nutrition",
+      "source_reviewed": "2019-08",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Do gastritis and gastropathy affect nutrition?",
+      "excerpt": "talk with your doctor before using dietary supplements",
+      "content": "部分类型胃炎可能影响铁或维生素B12吸收。是否存在营养缺乏、是否需要补充，应由医生评估，使用补充剂前先咨询医生。",
+      "limits": "不能从疲劳或胃部症状推断贫血，不提供补剂剂量，也不将食物替代诊疗。",
+      "questions": [
+        "胃炎需不需要吃维生素补剂"
+      ],
+      "publisher": "NIH / NIDDK",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "dash-pattern",
+      "topic_key": "dash",
+      "topic": "DASH与血压饮食教育",
+      "aliases": [
+        "高血压",
+        "血压偏高",
+        "dash",
+        "hypertension"
+      ],
+      "title": "DASH：食物搭配原则",
+      "url": "https://www.nhlbi.nih.gov/health/dash-eating-plan",
+      "source_reviewed": "2026-02-25",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Overview",
+      "excerpt": "Eating vegetables, fruits, and whole grains",
+      "content": "DASH模式强调蔬菜、水果、全谷物，并搭配低脂或脱脂乳品、鱼禽、豆类、坚果和植物油；限制饱和脂肪较多的食物和含糖饮料、甜食。",
+      "limits": "一般教育不等于个体降压处方；不能建议停药。肾脏疾病、限钾、过敏等限制需另行专业评估，不因DASH概念覆盖既有医嘱。",
+      "questions": [
+        "血压有点高吃饭怎么搭配"
+      ],
+      "publisher": "NIH / NHLBI",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    },
+    {
+      "id": "dash-portions",
+      "topic_key": "dash",
+      "topic": "DASH与血压饮食教育",
+      "aliases": [
+        "高血压",
+        "血压偏高",
+        "dash",
+        "hypertension"
+      ],
+      "title": "DASH：份数和钠目标需个体化",
+      "url": "https://www.nhlbi.nih.gov/health/dash-eating-plan",
+      "source_reviewed": "2026-02-25",
+      "audience": "成人一般饮食教育；具体诊疗需专业人员评估",
+      "section": "Daily and weekly servings",
+      "excerpt": "depends on your daily calorie needs",
+      "content": "DASH示例中的食物份数与每日能量需求有关，低钠是该模式的一部分。网页示例不能直接作为所有人的份数或能量目标。",
+      "limits": "不自动给用户写入固定热量或钠目标。现有食物营养参考值不含完整实际调味和用盐，不能宣称生成的菜单满足降压治疗要求。",
+      "questions": [
+        "DASH的份数所有人都一样吗"
+      ],
+      "publisher": "NIH / NHLBI",
+      "verified_on": "2026-10-21",
+      "review_due": "2027-04-20",
+      "review_status": "中文整理待专业复核"
+    }
+  ],
+  "updated_on": "2026-10-21"
+}
